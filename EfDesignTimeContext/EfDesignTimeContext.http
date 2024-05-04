@@ -1,0 +1,6 @@
+@EfDesignTimeContext_HostAddress = http://localhost:5086
+
+GET {{EfDesignTimeContext_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
